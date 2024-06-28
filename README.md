@@ -6,7 +6,7 @@ The Analog Computer allows users to input complex mathematical expressions, proc
 
 ## Features
 
-- **Arithmetic Operations**: Perform addition, subtraction, multiplication, and nth root calculations.
+- **Arithmetic Operations**: Perform addition, subtraction, multiplication, and nth root calculations for numbers ranging from -12 to 12.
 - **Parentheses for Grouping**: Support for complex expressions with grouping using parentheses.
 - **Wireless Input**: Inputs can be given wirelessly over Wi-Fi connection by phone or laptops handled by NodeMCU unit.
 - **Arduino Integration**: Input expressions are parsed and converted for Arduino using the Arduino Stack Library.
